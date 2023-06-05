@@ -72,9 +72,9 @@ author_profile: true
 </table>
 <!-- ## News
 
-* <sub>**[April 2023]** GPT is a good Annotator.</sub>
+<!-- * <sub>**[April 2023]** GPT Self-Supervision for a Better Data Annotator </sub>
 * <sub>**[Dec 2022]**  Win the "Best Student Paper" awarded by ICDM as the first author. [[Award News]](https://twitter.com/icdm2022/status/1595243601545826304).</sub>
-* <sub>**[Nov 2022]** Our work has been accepted by ICDM ([Core Rank A*](http://portal.core.edu.au/conf-ranks/?search=mining&by=all&source=all&sort=arank&page=1)). [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)</sub> -->
+* <sub>**[Nov 2022]** Our work has been accepted by ICDM ([Core Rank A*](http://portal.core.edu.au/conf-ranks/?search=mining&by=all&source=all&sort=arank&page=1)). [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf)</sub> --> -->
 
 <!-- * <sub>**[Nov 2022]** Beyond Neural Scaling Laws wins a Best Paper Award at NeurIPS 2022! [Press Release](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/)</sub>
 * <sub>**[Oct 2022]** New paper at the NeurIPS 2022 Self-Supervised Learning - Theory & Practice Workshop:  

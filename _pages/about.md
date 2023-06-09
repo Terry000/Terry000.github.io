@@ -104,16 +104,16 @@ Hi! I am Terry Pei 😊, a researcher at the University of Sydney. I major in de
 
 ## Honors and Awards
 
-*  A Best Student Paper (2022) 
+ * <sub>  A Best Student Paper (2022) </sub>
 
-* Two Full-Scholarship (2019-2020, 2020-2021) 
+ * <sub> Two Full-Scholarship (2019-2020, 2020-2021) </sub>
 
-* Outstanding Graduate (2019)
+ * <sub> Outstanding Graduate (2019) </sub>
 
-* National Second Prize in Mathematics Competition (2018)
+ * <sub> National Second Prize in Mathematics Competition (2018) </sub>
 
-* Provincial Prize in Blue Bridge Cup Programming C++ Competition (2018)
+ * <sub> Provincial Prize in Blue Bridge Cup Programming C++ Competition (2018) </sub>
 
 ## Academic Services
-
-* Reviewer of ICML, NeurIPS, ICDM, AAAI.
+* <sub> Program chair of NeurIPS. </sub>
+ * <sub> Reviewer of ICML, NeurIPS, ICDM, AAAI. </sub>

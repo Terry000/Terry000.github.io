@@ -112,7 +112,10 @@ Hi! I am Terry Pei 😊, a researcher at the University of Sydney. I major in de
 
  * <sub> National Second Prize in Mathematics Competition (2018) </sub>
 
- * <sub> Provincial Prize in Blue Bridge Cup Programming C++ Competition (2018) </sub>
+ * <sub> Provincial Prize in C++ Programming Competition (2018) </sub>
+
+## Skills
+* <sub> Python, Pytorch, Git, Linux, Latex, C++, Swift, SQL, Google Cloud Platform, BPMN </sub>
 
 ## Academic Services
 * <sub> Program chair of NeurIPS. </sub>

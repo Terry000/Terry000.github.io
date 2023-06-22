@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Terry Pei 😊, a researcher at the University of Sydney. I major in deep learning at the school of computer science.
+Hi! I am Terry Pei, an AI programmer and researcher at the University of Sydney. I major in deep learning at the school of computer science.
 
-**Research Field**: Data-centric deep learning. I also have rich experience on NLP and CV during the industry internship.
+**Research Field**: Data-centric deep learning, LLMs. I also have rich experience on NLP and CV during the industry internship.
 
 **Recent Work**: Update the AI search engine to automatic annotator via GPT models.
 

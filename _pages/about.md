@@ -10,6 +10,8 @@ redirect_from:
 
 Hi! I am Terry Pei, an AI programmer and researcher at the University of Sydney. I major in deep learning at the school of computer science.
 
+**Professional Skills**: Python, SQL, C/C++, Git, Latex, Markdown, Google Cloud Platform, Jupyter, Pytorch, Numpy, Matplotlib
+
 **Research Field**: Data-centric deep learning, LLMs. I also have rich experience on NLP and CV during the industry internship.
 
 **Recent Work**: Update the AI search engine to automatic annotator via GPT models.

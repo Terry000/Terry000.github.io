@@ -8,22 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Terry Pei, an AI programmer and researcher at the University of Sydney. I major in deep learning at the school of computer science.
+Hi! I am Terry Pei ^-^, an AI programmer, researcher at the University of Sydney. I major in deep learning at the school of computer science.
 
-**Professional Skills**: Python, SQL, C/C++, Git, Latex, Markdown, Google Cloud Platform, Jupyter, Pytorch, Numpy, Matplotlib
+**Skills Mastery**: Python, SQL, Git, Latex, Markdown, Google Cloud Platform, Jupyter, Pytorch, Numpy, Matplotlib, C/C++, Scrapy, Flask.
 
-**Research Field**: Data-centric deep learning, LLMs. I also have rich experience on NLP and CV during the industry internship.
+**Specialized Field**: Data-centric LLMs with downstream applications. I also have rich experience on  NLP and CV during the industry internship.
 
 **Recent Work**: Update the AI search engine to automatic annotator via GPT models.
-
-## News
-
-<!-- * GPT is a good Annotator. -->
-* <sub>**[Nov 2022]** Win the "Best Student Paper" awarded by ICDM as the first author. [[Award News]](https://twitter.com/icdm2022/status/1595243601545826304) </sub>
-
-
-* <sub>**[Nov 2022]** Our work has been accepted by ICDM. ([Core Rank A*](http://portal.core.edu.au/conf-ranks/?search=mining&by=all&source=all&sort=arank&page=1)). [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf) </sub>
-
 
 ## Projects
 
@@ -102,7 +93,13 @@ Hi! I am Terry Pei, an AI programmer and researcher at the University of Sydney.
   * <sub>**[July 2019]** Attended the Machine Learning Summer School 2019 in London</sub>    
 
 </details> -->
+## News
 
+<!-- * GPT is a good Annotator. -->
+* <sub>**[Nov 2022]** Win the "Best Student Paper" awarded by ICDM as the first author. [[Award News]](https://twitter.com/icdm2022/status/1595243601545826304) </sub>
+
+
+* <sub>**[Nov 2022]** Our work has been accepted by ICDM. ([Core Rank A*](http://portal.core.edu.au/conf-ranks/?search=mining&by=all&source=all&sort=arank&page=1)). [[Accepted News]](https://www.cse.fau.edu/~xqzhu/icdm2022/ICDM2022Program.pdf) </sub>
 
 ## Honors and Awards
 

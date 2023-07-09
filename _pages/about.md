@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Terry Pei ^-^, an AI programmer, researcher at the University of Sydney. I major in deep learning at the school of computer science.
+Hi! I am Terry Pei ^-^, an graduate student at the University of Sydney. I major in deep learning at the school of computer science.
 
 **Skills Mastery**: Python, SQL, Git, Latex, Markdown, Google Cloud Platform, Jupyter, Pytorch, Numpy, Matplotlib, C/C++, Scrapy, Flask.
 

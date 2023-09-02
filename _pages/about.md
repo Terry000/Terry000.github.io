@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Terry Pei ^_^, a graduate student at the University of Sydney. I major in deep learning at the school of computer science.
+Hi! I am Terry Pei 😊, a PhD student at the University of Sydney. I major in deep learning at the school of computer science.
 
-**Skills Mastery**: Python, SQL, Git, Latex, Markdown, Google Cloud Platform, Jupyter, Pytorch, Numpy, Matplotlib, C/C++, Scrapy, Flask.
+<!-- **Skills Mastery**: Python, SQL, Git, Latex, Markdown, Google Cloud Platform, Jupyter, Pytorch, Numpy, Matplotlib, C/C++, Scrapy, Flask. -->
 
 **Specialized Field**: Data-centric LLMs with downstream applications. I also have rich experience on  NLP and CV during the industry internship.
 
-**Recent Work**: Update the AI search engine to automatic annotator via GPT models.
+**Recent Work**: Update the AI search engine.
 
 ## Projects
 

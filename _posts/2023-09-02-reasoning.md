@@ -1,14 +1,34 @@
 ---
-title: 'Abstract reasoning and conceptual generalisation in deep learning'
-date: 2020-10-07
+title: 'Ideas of math reasoning in LLMs'
+date: 2023-09-02
 permalink: /posts/2020/10/abs-reasoning/
 tags:
-  - Cognitive Science
+  - Math
   - Deep Learning
   - Reasoning
-  - Computer Vision
+  - Large Language Models
 ---
-_In this blog post I will go over the problem of abstract visual reasoning; which has recently emerged as a challenging domain for machine learning tasks. Before I do that I will explain the issues with 'conceptual' generalisation in machine learning._
+
+# Q1. An axiom (or 'a priori') is a set of basic assumptions or principles from which theorems can be logically derived (ignoring Gödel's incompleteness theorems for the moment). Then, if the axioms are replaced, can new rules $W^{'}$ governing the world be deduced?
+
+$$
+\begin{aligned}
+W \leftarrow Model(T) \\
+W^{'} \overset{?}{\leftarrow} Model(T^{'}) \\
+\end{aligned}
+$$
+
+
+# Q2. GPT's reasoning ability is not strong. In algorithms that involve step-by-step derivation, is it possible to directly diagnose which sub-step cannot be derived?
+
+$$
+\begin{aligned}
+\{\text{s}_{j} \leftarrow \text{s}_{i}\} \overset{?}{\leftarrow} Model(T^{'})
+\end{aligned}
+$$
+
+
+<!-- _In this blog post I will go over the problem of abstract visual reasoning; which has recently emerged as a challenging domain for machine learning tasks. Before I do that I will explain the issues with 'conceptual' generalisation in machine learning._
 
 _After that, I will explain the problem setting of Raven's Progressive Matrices which serve as a test-bed for abstract reasoning ability, discuss two datasets released for machine learning research on this problem, go through a couple of the models with code in Pytorch and leave you with some open questions. Hopefully this blog post generates as much of an interest in this problem as it did for me while reading these papers. Let's dive right in!_
 
@@ -116,4 +136,4 @@ In their paper "Measuring abstract reasoning in neural networks" [2], Barrett, H
 
 [5] Barrett, David, et al. "Measuring abstract reasoning in neural networks." International Conference on Machine Learning. 2018.
 
-[6] Zhang, Chi, et al. "Raven: A dataset for relational and analogical visual reasoning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
+[6] Zhang, Chi, et al. "Raven: A dataset for relational and analogical visual reasoning." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019. -->
